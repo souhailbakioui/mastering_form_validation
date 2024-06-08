@@ -40,5 +40,3 @@ This React application is built to showcase form validation techniques using Rea
 
 5. Open your browser and go to [http://localhost:3000](http://localhost:3000) to view the application.
 
-## Folder Structure
-
